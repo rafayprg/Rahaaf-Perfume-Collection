@@ -1,5 +1,5 @@
 "scripts": {
-  "start": "node your-server-file.js"
+  "start": "node index.js"
 }
 {
   "name": "rahafprac",
