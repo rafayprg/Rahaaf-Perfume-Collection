@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node your-server-file.js"
+}
 {
   "name": "rahafprac",
   "version": "1.0.0",
